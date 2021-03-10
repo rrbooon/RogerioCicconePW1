@@ -1,1 +1,3 @@
 # RogerioCicconePW1
+
+Olá, meu nome é Rogério, eu tenho 15 anos no momento estou cursando o segundo ano do ensino médio com habilitação em desenvolvimento de sistemas e também estou cursando curso técnico em desenvolvimento de sistemas, já fiz cursos rápidos sobre html e css, python, machine learning, banco de dados relacional e etc, gosto de jogar vídeo game e dormir e curto d+ a área de programação.
