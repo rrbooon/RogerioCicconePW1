@@ -1,0 +1,32 @@
+body{
+	background: #0E0B16;
+	color: #E7DFDD;
+	font-family: 'Arial Black'
+}
+
+.form{
+	text-align: center;
+	
+}
+
+
+
+input{
+	border-radius: 16px;
+	border-size: 10px;
+	border-color: #A239CA;
+	background-color: #4717F6;
+	border-size: 10px;
+}
+
+.input-submit{
+	background: #A239CA;
+}
+
+button{
+	border-radius: 16px;
+	border-size: 10px;
+	border-color: #A239CA;
+	background-color: #4717F6;
+
+}
